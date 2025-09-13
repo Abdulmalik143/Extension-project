@@ -1,13 +1,12 @@
-# React + Vite
+# Browser extension manager UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 New Project: Extensions
+I recently completed a FrontEnd Mentor challenge where I built an interactive web interface using React.js and Tailwind CSS.
+Supports Light & Dark Mode.
+Uses a local JSON file as a mock database to store and manage extensions.
+Provides a clean UI for enabling, disabling, and removing extensions.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Extension-project
+This project helped me:
+Strengthen my front-end development and responsive design skills.
+Practice component-based architecture and state management.
+Deliver a polished, modern interface without relying on a live API.
